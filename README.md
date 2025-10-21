@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KJD</h1>
-<h3 align="center">NLP DEVELOPER FROM SOUTH KOREA</h3>
+<h3 align="center">Finance DEVELOPER FROM SOUTH KOREA</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
